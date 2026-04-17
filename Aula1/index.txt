@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>TechStart Solutions</h1>
+    <h2>Transformando ideias em presença digital.</h2>
+    <p>
+      A <b>TechStart Solutions</b> é uma empresa especializada na criação de
+      sites profissionais, desenvolvendo soluções digitais modernas, responsivas
+      e personalizadas para ajudar negócios a fortalecer sua presença online e
+      alcançar melhores resultados na internet.
+    </p>
+    <hr />
+    <center>
+      <img
+        src="https://img.freepik.com/fotos-gratis/experiencia-em-programacao-com-pessoa-a-trabalhar-com-codigos-no-computador_23-2150010130.jpg?semt=ais_hybrid&w=740&q=80"
+        alt=""
+        width="500px"
+      />
+      <hr />
+    </center>
+    <h2>Nossos Serviços</h2>
+    <ul></ul>
+    <li>Desenvolvimento de Sites Personalizados</li>
+    <li>Design Responsivo</li>
+    <li>Otimização para Motores de Busca (SEO)</li>
+    <li>Integração com Redes Sociais</li>
+    <li>Manutenção e Suporte Técnico</li>
+    <h3>Veja aqui os projetos dos nossos clientes</h3>
+    <a href="https://www.apple.com/"><b>Apple</b></a>
+    <a href="https://www.amazon.com.br/"><b>Amazon</b></a>
+    <a href="https://www.nvidia.com/pt-br/"><b>Nvidia</b></a>
+    <a href="https://www.kingston.com/br/"><b>Kingston</b></a>
+    <a href="https://www.wikipedia.org/"><b>Wikipedia</b></a>
+    <hr />
+    <h2>Entre em Contato</h2>
+    <p>
+      Para mais informações sobre nossos serviços ou para solicitar um
+      orçamento, entre em contato conosco:
+    </p>
+    <ul>
+      <li>Email: TechStartupS@gmail.com</li>
+      <li>Telefone (11)1234-5678</li>
+    </ul>
+    <hr />
+    <p>© 2024 TechStart Solutions. Todos os direitos reservados.</p>
+  </body>
+</html>
+<!--Aprendi a criar um site simples usando HTML, incluindo elementos como títulos, parágrafos, listas, links e imagens. Também aprendi a estruturar o conteúdo de forma organizada e a usar tags para formatar o texto.-->
+<!--Achei relativamente fácil, não tive muitas dificuldades, mas tive que pesquisar um pouco sobre as tags HTML para entender como usá-las corretamente.-->

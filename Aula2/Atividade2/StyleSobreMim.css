@@ -1,0 +1,83 @@
+body {
+  background-color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+  display: flex;
+  justify-content: space-around;
+  list-style-type: none;
+  align-items: center;
+  padding: 20px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.imagem {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.imagem img {
+  width: 220px;
+}
+
+h1 {
+  color: rgb(206, 55, 55);
+  text-align: center;
+  padding: 30px;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+  text-decoration: underline;
+  padding: 1px;
+}
+
+img {
+  border-radius: 100%;
+  border: 3px solid rgb(206, 55, 55);
+}
+
+section h3 {
+  color: white;
+}
+
+section p {
+  color: white;
+}
+
+hr {
+  width: 1250px;
+}
+
+footer h2 {
+  text-decoration: none;
+  padding: 50px;
+}
+
+.RedesSociais {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+}
+
+.RedesSociais img {
+  width: 35px;
+  border: 1px solid white;
+}
+
+nav li a:hover {
+  background-color: rgb(255, 1, 1);
+  border-radius: 10px;
+}
+
+.RedesSociais img:hover {
+  transform: scale(1.3);
+}
