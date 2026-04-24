@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>TABELAS</h1>
+    <table border="1" cellpadding="20" cellspacing="0">
+      <thead>
+        Titulo da Tabela!
+      </thead>
+      <tr>
+        <td>Linha 1 - Coluna 1</td>
+        <td>Linha 1 - Coluna 2</td>
+      </tr>
+      <tr>
+        <td>Linha 2 - Coluna 1</td>
+        <td>Linha 2 - Coluna 2</td>
+      </tr>
+    </table>
+    <video width="600px" controls>
+      <source
+        src="video/YTDown.com_YouTube_Ishowspeed-Egypt-dance_Media_8TZSdEYro5M_001_1080p.mp4"
+        type="video/mp4"
+      />
+
+      <audio controls>
+        <source
+          src="video/YTDown.com_YouTube_Ishowspeed-Egypt-dance_Media_8TZSdEYro5M_001_1080p.mp4"
+          type="audio/mpeg"
+        />
+      </audio>
+    </video>
+    <iframe
+      width="1396"
+      height="785"
+      src="https://www.youtube.com/embed/z-6u1-3DRh8"
+      title="Ai Eu Vou Cair"
+      frameborder="0"
+      allow="
+        accelerometer;
+        autoplay;
+        clipboard-write;
+        encrypted-media;
+        gyroscope;
+        picture-in-picture;
+        web-share;
+      "
+      referrerpolicy="strict-origin-when-cross-origin"
+      allowfullscreen
+    ></iframe>
+    <header>
+      <form action="/página-processa-dados-do-form" method="post">
+        <div>
+          <label for="nome">Nome:</label>
+          <input type="text" id="nome" />
+        </div>
+        <div>
+          <label for="sobrenome">Sobrenome:</label>
+          <input type="text" id="email" />
+        </div>
+        <div>
+          <label for="msg">Mensagem:</label>
+          <textarea id="msg"></textarea>
+        </div>
+        <div class="button">
+          <button type="submit">Enviar sua mensagem</button>
+        </div>
+      </form>
+    </header>
+    <form>
+      <label for="nome">Nome:</label><br />
+      <input type="text" id="nome" name="nome" /><br /><br />
+
+      <label for="alimento">Escolha ou digite seu alimento favorito:</label
+      ><br />
+      <input list="lista-alimentos" id="alimento" name="alimento" />
+
+      <datalist id="lista-alimentos">
+        <option value="Pizza"></option>
+        <option value="Hambúrguer"></option>
+        <option value="Sushi"></option>
+        <option value="Salada"></option>
+        <option value="Churrasco"></option>
+        <option value="Lasanha"></option>
+      </datalist>
+      <br /><br />
+
+      <input type="submit" value="Enviar" />
+    </form>
+  </body>
+</html>
